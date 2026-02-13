@@ -8,3 +8,4 @@
 - Anforderungen sauber übersetzen
 
 ![[Pasted image 20260213091623.png]]
+![[Pasted image 20260213094437.png]]
