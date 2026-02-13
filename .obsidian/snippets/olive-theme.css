@@ -1,0 +1,110 @@
+/* --- OLIVE GROVE (DEFAULT THEME EDITION) --- */
+
+body.theme-dark {
+  /* ==========================================================================
+     1. THE PALETTE MAPPING
+     #ececa3 -> Highlights, Text Focus, Hover Icons
+     #b5e550 -> External Links, Graph Highlights
+     #abc32f -> Active Borders, Secondary Accents
+     #809c13 -> Link Color, Button Hover
+     #607c3c -> Primary Buttons, Checkboxes, Base Accents
+     ========================================================================== */
+
+  /* --- CORE ACCENTS (Overrides "Obsidian Purple") --- */
+  --color-accent: #607C3C;              /* The master accent variable */
+  --color-accent-1: #607C3C;            /* Primary interactive elements */
+  --color-accent-2: #809C13;            /* Hover states */
+  --interactive-accent: #607C3C;        
+  --interactive-accent-hover: #809C13;  
+  --text-on-accent: #ececa3;            /* Text inside filled buttons */
+  
+  /* --- TEXT & SELECTION --- */
+  --text-accent: #ececa3;               /* Active file names & bold text */
+  --text-selection: rgba(181, 229, 80, 0.3); /* #b5e550 (No more Blue highlight!) */
+  --text-highlight-bg: rgba(171, 195, 47, 0.4); /* #abc32f for ==highlights== */
+
+  /* --- BACKGROUNDS (Deep Earth - No Blue Tints) --- */
+  --background-primary: #12140E;        /* Main Editor */
+  --background-primary-alt: #0B0C08;    /* Sidebars */
+  --background-secondary: #0B0C08;      /* Ribbon & Panels */
+  --background-secondary-alt: #0B0C08;  /* Tab Headers */
+  --titlebar-background: #0B0C08;       /* Top Window Bar */
+
+  /* --- UI ELEMENTS --- */
+  --icon-color: #8B9182;                /* Resting Icons */
+  --icon-color-hover: #ececa3;          /* Hover Icons (Brightest) */
+  --nav-item-color-active: #ececa3;     /* Active File in Sidebar */
+  --tab-text-active: #ececa3;           /* Active Tab Text */
+  
+  /* --- BORDERS & LINES --- */
+  --tab-divider-color: #2D3227;
+  --border-color: #2D3227;
+  --prompt-border-color: #607C3C;       /* Command Palette Border */
+}
+
+/* ==========================================================================
+   2. SPECIFIC OVERRIDES (The "Fix-It" Section)
+   ========================================================================== */
+
+/* FIX 1: The Left Ribbon (Extensions Bar) */
+.workspace-ribbon.mod-left {
+  background-color: #0B0C08 !important;
+  border-right: 1px solid #2D3227;
+}
+/* Ribbon Icons (Search, Settings, etc.) */
+.workspace-ribbon.mod-left .clickable-icon:hover {
+  color: #ececa3 !important;
+  background-color: transparent !important; /* Removes grey box */
+}
+/* The "Active" Ribbon Icon (e.g. current tab) */
+.side-dock-ribbon-action.is-active {
+  color: #607C3C !important;
+}
+
+/* FIX 2: Folder Lines (Indentation Guides) */
+body.theme-dark .nav-indent-guide,
+body.theme-dark .tree-item-children {
+  border-left-color: #2D3227;
+}
+body.theme-dark .tree-item-children:hover {
+  border-left-color: #607C3C; /* Glows base green on hover */
+}
+
+/* FIX 3: "Call to Action" Buttons (Manage, Updates) */
+button.mod-cta {
+  background-color: #607C3C !important;
+  color: #ececa3 !important;
+  box-shadow: none !important;
+}
+button.mod-cta:hover {
+  background-color: #809C13 !important;
+  color: #fff !important;
+}
+
+/* FIX 4: Checkboxes */
+.markdown-rendered .task-list-item-checkbox:checked {
+  background-color: #607C3C !important;
+  border-color: #abc32f !important;
+}
+
+/* FIX 5: Window Controls (Top Right/Left) */
+.titlebar-button-container .titlebar-button {
+  color: #8B9182;
+}
+.titlebar-button-container .titlebar-button:hover {
+  background-color: #2D3227 !important;
+  color: #ececa3 !important;
+}
+
+/* ==========================================================================
+   3. GRAPH VIEW (The 5-Color Scale)
+   ========================================================================== */
+.graph-view.color-fill { color: #607C3C; }             /* Nodes */
+.graph-view.color-line { color: #2D3227; }             /* Lines */
+.graph-view.color-text { color: #D1D4C9; }             /* Text */
+.graph-view.color-fill-highlight { color: #ececa3; }   /* Hover Node */
+.graph-view.color-line-highlight { color: #abc32f; }   /* Hover Line */
+
+/* Scrollbars */
+::-webkit-scrollbar-thumb { background-color: #2D3227; border-radius: 4px; }
+::-webkit-scrollbar-thumb:hover { background-color: #607C3C; }

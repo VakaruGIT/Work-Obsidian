@@ -1,0 +1,277 @@
+{
+  "main": {
+    "id": "029ea0e912ea5ddf",
+    "type": "split",
+    "children": [
+      {
+        "id": "56eca11d49807d8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3dbdbedbfe66c56",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c08b2df77d6444b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "00822bb9bb6d1aa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "32a42ac45594292c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4d4b101949b08bc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f0b92e684124fbcd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f5b7999bf925f95",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb171d21439d5c5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da0bc71d467c1d84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "66d8beacbd19369c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "dba2dba1b081999a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "de2ff06d18e6f629",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "8d303e889e938461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Work/Untitled Kanban.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled Kanban"
+            }
+          },
+          {
+            "id": "f5bfe5dc238fbca5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Connections"
+            }
+          },
+          {
+            "id": "2ea1f8bdce191812",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "smart-lookup",
+              "title": "Lookup"
+            }
+          },
+          {
+            "id": "219a93b28a420128",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "templater-obsidian:Templater": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "smart-connections:Smart Connections: Open random connection": false,
+      "obsidian-kanban:Create new board": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "f3dbdbedbfe66c56",
+  "lastOpenFiles": [
+    "Work/Tools.md",
+    "attachments/image 1 2.png",
+    "README.md",
+    "attachments/image.png",
+    "attachments/image 1.png",
+    "attachments/conPEP.png",
+    "attachments/17f65a80b913aea00b9b2a6d771fe2ba.jpg",
+    "attachments/4a4407e8-8062-4f7f-a0fb-830d1bcf8138.png",
+    "attachments/6da58494-a7a6-43fe-9be3-9cc124ae8199.png",
+    "attachments/62bbc7b55bc8a802d0ca037b94f22a5e.jpg",
+    "attachments/81da08349ccfcfd906859dfcafe3d60e.jpg",
+    "attachments/caa83fbc2049e1ecdd56cee7ccb40932.jpg",
+    "Work/PP-VI/Finnance & Controlling (FICO).md",
+    "Work/Team Lead 1-1.md",
+    "Work/Untitled Kanban.md",
+    "Notion/Personal Notes/Personal Note/More/Untitled.md",
+    "Notes/AI.md",
+    "Notion/Personal Notes/Personal Note/More/Projects.md",
+    "Notion/Personal Notes/Personal Note/More/Meeting Title.md",
+    "Notion/Personal Notes/Personal Note/More/Jour Fixe (Manufacturing Consultants).md",
+    "Notion/Personal Notes/Personal Note/More/Jour Fixe.md",
+    "Notion/Personal Notes/Personal Note/More/Intrapreneurship Forum.md",
+    "Notion/Personal Notes/Personal Note/More/conPEP.md",
+    "Notion/Personal Notes/Personal Note/More/ConOS.md",
+    "Notes/Personal.md",
+    "Work/Coaching/Tips.md",
+    "Notion/Personal Notes/Personal Note/Knowledge.md",
+    "Work/Coaching/Coaching.md",
+    "Notion/Personal Notes/Personal Note/Knowledge/Internal information.md",
+    "Notion/Personal Notes/Personal Note/Knowledge/External Information.md",
+    "Notion/Personal Notes/Personal Note/Notes/Thesis (PCC).md",
+    "Notion/Personal Notes/Personal Note/Notes/PP with SAP S-4HANA.md",
+    "Notion/Personal Notes/Personal Note/Notes/Hour Booking.md",
+    "Notion/Personal Notes/Personal Note/Untitled.base",
+    "Work/Coaching/Technical.md",
+    "Notion/Personal Notes/Personal Note/Knowledge Transfer.md",
+    "Work/Coaching/Scope Items/Scope Items.md",
+    "Work/Coaching/Scope Items",
+    "Work/Coaching",
+    "Work/PP-VI",
+    "Work/Clients/Hoerbiger",
+    "Work/Clients",
+    "Work/Clients/Delfort/Sprint 2",
+    "Work/Clients/Delfort/Sprint 1",
+    "Notion/Personal Notes/Personal Note/Notes/Books/PP with SAP S 4HANA",
+    "Notion/Personal Notes/Personal Note/More",
+    "Untitled.canvas"
+  ]
+}
