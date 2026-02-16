@@ -13,19 +13,14 @@
             "state": {
               "type": "kanban",
               "state": {
-                "file": "Work/Activity.md",
+                "file": "Work/Education/Untitled Kanban.md",
                 "kanbanViewState": {
                   "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
+                  "list-collapse": []
                 }
               },
               "icon": "lucide-trello",
-              "title": "Activity"
+              "title": "Untitled Kanban"
             }
           }
         ]
@@ -232,13 +227,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32a42ac45594292c",
+  "active": "f3dbdbedbfe66c56",
   "lastOpenFiles": [
+    "Work/Education/Technical.md",
+    "Work/Education/Untitled Kanban.md",
+    "2026-02-16.md",
+    "Work/Activity.md",
     "Work/Products",
     "Work/Education/Team Lead 1-1.md",
     "Work/Tools.md",
     "README.md",
-    "Work/Activity.md",
     "Work/Clients/Tiger Coatings/Key-User guide plan.md",
     "Work/Clients/Hoerbiger/Hörbiger.md",
     "Work/Products/conPEP/Notes.md",
@@ -269,8 +267,6 @@
     "Notion/Personal Notes/Personal Note/More/conPEP.md",
     "Notion/Personal Notes/Personal Note/More/ConOS.md",
     "Notes/Personal.md",
-    "Work/Education/Tips.md",
-    "Notion/Personal Notes/Personal Note/Knowledge.md",
     "Notion/Personal Notes/Personal Note/Untitled.base",
     "Work/Education/Scope Items",
     "Work/Education",
@@ -279,7 +275,6 @@
     "Work/Clients",
     "Work/Clients/Delfort/Sprint 2",
     "Work/Clients/Delfort/Sprint 1",
-    "Notion/Personal Notes/Personal Note/Notes/Books/PP with SAP S 4HANA",
     "Untitled.canvas"
   ]
 }
