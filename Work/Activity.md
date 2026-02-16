@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Do this
 
-- [ ] Test
 
 
 ## In Progress

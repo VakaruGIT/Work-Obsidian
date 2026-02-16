@@ -11,10 +11,21 @@
             "id": "f3dbdbedbfe66c56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "kanban",
+              "state": {
+                "file": "Work/Activity.md",
+                "kanbanViewState": {
+                  "kanban-plugin": "board",
+                  "list-collapse": [
+                    false,
+                    false,
+                    false,
+                    false
+                  ]
+                }
+              },
+              "icon": "lucide-trello",
+              "title": "Activity"
             }
           }
         ]
@@ -221,19 +232,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3dbdbedbfe66c56",
+  "active": "32a42ac45594292c",
   "lastOpenFiles": [
-    "Work/Clients/Tiger Coatings/Key-User guide plan.md",
-    "Work/Clients/Hoerbiger/Hörbiger.md",
-    "Work/conPEP/Notes.md",
-    "Work/conOS/Notes.md",
-    "Work/conPEP/Untitled",
-    "Work/Clients/Delfort/Sprint 1/Delfort.md",
-    "Work/Team Lead 1-1.md",
+    "Work/Products",
+    "Work/Education/Team Lead 1-1.md",
     "Work/Tools.md",
     "README.md",
-    "Work/PP-VI/Finnance & Controlling (FICO).md",
-    "Work/PP-VI/PP-VI.md",
+    "Work/Activity.md",
+    "Work/Clients/Tiger Coatings/Key-User guide plan.md",
+    "Work/Clients/Hoerbiger/Hörbiger.md",
+    "Work/Products/conPEP/Notes.md",
+    "Work/Products/conOS/Notes.md",
+    "Work/conPEP/Untitled",
+    "Work/Clients/Delfort/Sprint 1/Delfort.md",
+    "Work/Education/PP-VI/Finnance & Controlling (FICO).md",
+    "Work/Education/PP-VI/PP-VI.md",
     "attachments/Pasted image 20260213094437.png",
     "Untitled.md",
     "attachments/image 1 2.png",
@@ -256,14 +269,12 @@
     "Notion/Personal Notes/Personal Note/More/conPEP.md",
     "Notion/Personal Notes/Personal Note/More/ConOS.md",
     "Notes/Personal.md",
-    "Work/Coaching/Tips.md",
+    "Work/Education/Tips.md",
     "Notion/Personal Notes/Personal Note/Knowledge.md",
-    "Work/Coaching/Coaching.md",
-    "Notion/Personal Notes/Personal Note/Knowledge/Internal information.md",
     "Notion/Personal Notes/Personal Note/Untitled.base",
-    "Work/Coaching/Scope Items",
-    "Work/Coaching",
-    "Work/PP-VI",
+    "Work/Education/Scope Items",
+    "Work/Education",
+    "Work/Education/PP-VI",
     "Work/Clients/Hoerbiger",
     "Work/Clients",
     "Work/Clients/Delfort/Sprint 2",
