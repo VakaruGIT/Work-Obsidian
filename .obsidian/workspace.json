@@ -11,16 +11,14 @@
             "id": "f3dbdbedbfe66c56",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Work/Education/Untitled Kanban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": []
-                }
+                "file": "Work/Clients/Delfort/Sprint 1/Delfort.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Untitled Kanban"
+              "icon": "lucide-file",
+              "title": "Delfort"
             }
           }
         ]
@@ -229,8 +227,8 @@
   },
   "active": "f3dbdbedbfe66c56",
   "lastOpenFiles": [
-    "Work/Education/Technical.md",
     "Work/Education/Untitled Kanban.md",
+    "Work/Education/Technical.md",
     "2026-02-16.md",
     "Work/Activity.md",
     "Work/Products",
