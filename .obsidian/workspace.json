@@ -11,10 +11,14 @@
             "id": "f3dbdbedbfe66c56",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Work/Clients/Tiger Coatings/Sprint 2/Auto-refresh.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Auto-refresh"
             }
           }
         ]
@@ -191,7 +195,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -223,8 +227,10 @@
   },
   "active": "f3dbdbedbfe66c56",
   "lastOpenFiles": [
-    "Work/Clients/Delfort/Sprint 1/Delfort.md",
     "Work/Education/Untitled Kanban.md",
+    "Work/Education/Untitled Kanban 1.md",
+    "Work/Clients/Tiger Coatings/Sprint 2/Auto-refresh.md",
+    "Work/Clients/Delfort/Sprint 1/Delfort.md",
     "Work/Education/Technical.md",
     "2026-02-16.md",
     "Work/Activity.md",
@@ -259,8 +265,6 @@
     "Notion/Personal Notes/Personal Note/More/Jour Fixe.md",
     "Notion/Personal Notes/Personal Note/More/Intrapreneurship Forum.md",
     "Notion/Personal Notes/Personal Note/More/conPEP.md",
-    "Notion/Personal Notes/Personal Note/More/ConOS.md",
-    "Notes/Personal.md",
     "Notion/Personal Notes/Personal Note/Untitled.base",
     "Work/Education/Scope Items",
     "Work/Education",
