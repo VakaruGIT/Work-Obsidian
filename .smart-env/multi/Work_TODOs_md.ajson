@@ -1,0 +1,2 @@
+
+"smart_sources:Work/TODOs.md": {"path":"Work/TODOs.md","last_embed":{"hash":null},"embeddings":{},"last_read":{"hash":"1g9s68j","at":1771336068030},"class_name":"SmartSource","last_import":{"mtime":1771234092491,"size":188,"at":1771336068032,"hash":"1g9s68j"},"blocks":{"#---frontmatter---":[1,5],"##Do this":[7,10],"##In Progress":[11,14],"##Done":[15,18],"##Backlog":[19,29],"##Backlog#{1}":[25,29]},"outlinks":[],"metadata":{"kanban-plugin":"board"},"task_lines":[],"tasks":{},"codeblock_ranges":[[26,28]]},

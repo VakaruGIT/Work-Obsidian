@@ -11,21 +11,14 @@
             "id": "f3dbdbedbfe66c56",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Work/TODOs.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Work/Clients/Tiger Coatings/Sprint 2/Tig Enddatum Nice-to-have.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "TODOs"
+              "icon": "lucide-file",
+              "title": "Tig Enddatum Nice-to-have"
             }
           }
         ]
@@ -232,15 +225,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32a42ac45594292c",
+  "active": "f3dbdbedbfe66c56",
   "lastOpenFiles": [
     "Work/Clients/Tiger Coatings/Sprint 2/Auto-refresh.md",
+    "Work/Clients/Tiger Coatings/Sprint 2/Tig Enddatum Nice-to-have.md",
+    "Work/TODOs.md",
     "Work/Education/Untitled Kanban.md",
     "Work/Education/Untitled Kanban 1.md",
     "Work/Clients/Delfort/Sprint 1/Delfort.md",
     "Work/Education/Technical.md",
     "2026-02-16.md",
-    "Work/TODOs.md",
     "Work/Products",
     "Work/Education/Team Lead 1-1.md",
     "Work/Tools.md",
@@ -271,7 +265,6 @@
     "Notion/Personal Notes/Personal Note/More/Jour Fixe (Manufacturing Consultants).md",
     "Notion/Personal Notes/Personal Note/More/Jour Fixe.md",
     "Notion/Personal Notes/Personal Note/More/Intrapreneurship Forum.md",
-    "Notion/Personal Notes/Personal Note/More/conPEP.md",
     "Notion/Personal Notes/Personal Note/Untitled.base",
     "Work/Education/Scope Items",
     "Work/Education",
