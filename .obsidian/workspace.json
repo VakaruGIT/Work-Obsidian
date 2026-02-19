@@ -11,10 +11,14 @@
             "id": "7776d41ca855950c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Frontend bug development system"
             }
           }
         ]
@@ -223,6 +227,9 @@
   },
   "active": "7776d41ca855950c",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260219091001.png",
+    "Work/Clients/Delfort/Sprint 1/Delfort.md",
+    "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",
     "attachments/conPEP.png",
     "attachments/17f65a80b913aea00b9b2a6d771fe2ba.jpg",
     "attachments/image 34.png",
@@ -232,7 +239,6 @@
     "Work/TODOs.md",
     "Work/Education/Untitled Kanban.md",
     "Work/Education/Untitled Kanban 1.md",
-    "Work/Clients/Delfort/Sprint 1/Delfort.md",
     "Work/Education/Technical.md",
     "2026-02-16.md",
     "Work/Products",
@@ -253,14 +259,12 @@
     "attachments/image 1.png",
     "attachments/4a4407e8-8062-4f7f-a0fb-830d1bcf8138.png",
     "attachments/6da58494-a7a6-43fe-9be3-9cc124ae8199.png",
-    "attachments/62bbc7b55bc8a802d0ca037b94f22a5e.jpg",
     "Work/Untitled Kanban.md",
     "Notion/Personal Notes/Personal Note/More/Untitled.md",
     "Notes/AI.md",
     "Notion/Personal Notes/Personal Note/More/Projects.md",
     "Notion/Personal Notes/Personal Note/More/Meeting Title.md",
     "Notion/Personal Notes/Personal Note/More/Jour Fixe (Manufacturing Consultants).md",
-    "Notion/Personal Notes/Personal Note/More/Jour Fixe.md",
     "Notion/Personal Notes/Personal Note/Untitled.base",
     "Work/Education/Scope Items",
     "Work/Education",
