@@ -195,7 +195,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +223,8 @@
   },
   "active": "7776d41ca855950c",
   "lastOpenFiles": [
+    "Work/Education/Untitled Kanban.md",
+    "attachments/image 5 6.png",
     "attachments/17f65a80b913aea00b9b2a6d771fe2ba.jpg",
     "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",
     "attachments/Pasted image 20260219091001.png",
@@ -232,7 +235,6 @@
     "Work/Clients/Tiger Coatings/Sprint 2/Tig Enddatum Nice-to-have.md",
     "Work/Clients/Tiger Coatings/Sprint 2/Auto-refresh.md",
     "Work/TODOs.md",
-    "Work/Education/Untitled Kanban.md",
     "Work/Education/Untitled Kanban 1.md",
     "Work/Education/Technical.md",
     "2026-02-16.md",
@@ -252,7 +254,6 @@
     "attachments/image 1 2.png",
     "attachments/image.png",
     "attachments/image 1.png",
-    "attachments/4a4407e8-8062-4f7f-a0fb-830d1bcf8138.png",
     "Work/Untitled Kanban.md",
     "Notion/Personal Notes/Personal Note/More/Untitled.md",
     "Notes/AI.md",
