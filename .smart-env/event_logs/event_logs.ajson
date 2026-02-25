@@ -26,3 +26,5 @@
 "event_logs:collection:load_halted": {"key":"collection:load_halted","ct":21,"first_at":1770889556647,"last_at":1772004997314,"class_name":"EventLog"},
 "event_logs:collection:load_completed": {"key":"collection:load_completed","ct":29,"first_at":1770889556646,"last_at":1772004999590,"class_name":"EventLog"},
 "event_logs:sources:imported": {"key":"sources:imported","ct":1687,"first_at":1770889556662,"last_at":1772004999610,"class_name":"EventLog"},
+"event_logs:sources:import_completed": {"key":"sources:import_completed","ct":12,"first_at":1770889566154,"last_at":1772005299539,"class_name":"EventLog"},
+"event_logs:blocks:cleaned": {"key":"blocks:cleaned","ct":10,"first_at":1770889566155,"last_at":1772005299540,"class_name":"EventLog"},
