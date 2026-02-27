@@ -79,4 +79,4 @@ Occurrence: Monthly
 
 - Talk about hours next week
 	- work less on friday because of termin
-	- can work during the weekend and on wednesday
+	- can work during the week and on wednesday
