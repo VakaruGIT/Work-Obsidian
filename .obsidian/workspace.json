@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#wireguard",
+                "query": "tag:#ZService",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,7 +241,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ac38041bfad0df62",
+  "active": "4d4b101949b08bc0",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-04 09.12.03.excalidraw.md",
     "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",

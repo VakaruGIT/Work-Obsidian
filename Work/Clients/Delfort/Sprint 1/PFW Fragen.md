@@ -5,6 +5,6 @@ Planned Orders
 - auto popup from hovering over operations is not so appreciated when people want to drag and drop 
 	- Could be under the operation itself 
 	- Should disappear when Drag and Drop is used 
-	- 
+	- Roeles 
 
-#ZService 
+#ZService #customizing
