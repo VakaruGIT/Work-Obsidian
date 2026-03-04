@@ -1,8 +1,7 @@
 ---
 Last Sync: 2026-02-11T11:07
 ---
-- [[#Alignments]]
-- [[#User Training]]
+
 
 - Delfort Workshop CM25 Analysis
     
