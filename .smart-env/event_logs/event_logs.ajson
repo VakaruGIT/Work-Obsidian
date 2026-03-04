@@ -160,3 +160,4 @@
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":69,"first_at":1770891224744,"last_at":1772616448285,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":69}},
 "event_logs:sources:renamed": {"key":"sources:renamed","ct":70,"first_at":1770891224744,"last_at":1772616450438,"class_name":"EventLog","event_sources":{"obsidian:vault.rename":70}},
 "event_logs:sources:imported": {"key":"sources:imported","ct":1829,"first_at":1770889556662,"last_at":1772616463441,"class_name":"EventLog"},
+"event_logs:sources:opened": {"key":"sources:opened","ct":237,"first_at":1770889644349,"last_at":1772618600982,"class_name":"EventLog","event_sources":{"active-leaf-change":235,"open_source method":2}},
