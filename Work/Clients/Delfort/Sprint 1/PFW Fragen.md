@@ -4,6 +4,7 @@ Planned Orders
 - Auto scroll of operations drag & drop problem 
 - auto popup from hovering over operations is not so appreciated when people want to drag and drop 
 	- Could be under the operation itself 
-	- Should dissapear when 
+	- Should disappear when Drag and Drop is used 
+	- 
 
 #ZService 
