@@ -27,16 +27,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
+                "file": "Work/Products/conPEP/AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ATP"
+              "title": "AI"
+            }
+          },
+          {
+            "id": "c594c2a2665b88a1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-03-06 09.49.18.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,12 +251,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "32a42ac45594292c",
+  "active": "c594c2a2665b88a1",
   "lastOpenFiles": [
+    "Work/Products/conPEP/AI.md",
+    "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md",
+    "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
     "Work/Clients/Tiger Coatings/Extra Info",
     "Work/Clients/Tiger Coatings/Sprint 3",
     "Work/Clients/Tiger Coatings/Key-User guide plan.md",
-    "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
     "Excalidraw/Untitled.base",
     "Excalidraw/Drawing 2026-03-04 09.55.09.excalidraw.md",
     "Work/Clients/Delfort/Sprint 1/PFW Fragen.md",
@@ -277,7 +291,6 @@
     "Work/Products/conOS/Notes.md",
     "Work/conPEP/Untitled",
     "Work/Education/PP-VI/Finnance & Controlling (FICO).md",
-    "Work/Education/PP-VI/PP-VI.md",
     "attachments/Pasted image 20260213094437.png",
     "attachments/image 1 2.png",
     "attachments/image.png",
@@ -286,7 +299,6 @@
     "Work/Education/Scope Items",
     "Work/Education",
     "Work/Education/PP-VI",
-    "Work/Clients/Hoerbiger",
     "Untitled.canvas"
   ]
 }
