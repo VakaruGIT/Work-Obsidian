@@ -241,20 +241,18 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "templater-obsidian:Templater": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Lookup: Open lookup view": false,
       "smart-connections:Smart Connections: Open random connection": false,
       "obsidian-kanban:Create new board": false,
       "omnisearch:Omnisearch": false,
-      "obsidian-importer:Open Importer": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "c594c2a2665b88a1",
   "lastOpenFiles": [
-    "Work/Products/conPEP/AI.md",
     "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md",
+    "Work/Products/conPEP/AI.md",
     "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
     "Work/Clients/Tiger Coatings/Extra Info",
     "Work/Clients/Tiger Coatings/Sprint 3",
