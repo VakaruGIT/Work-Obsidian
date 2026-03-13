@@ -39,12 +39,14 @@
             "id": "c594c2a2665b88a1",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md"
+                "file": "Work/Clients/Tiger Coatings/Sprint 3/Plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-03-06 09.49.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Plan"
             }
           }
         ],
@@ -226,7 +228,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,9 +252,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d008653f22573fac",
+  "active": "c594c2a2665b88a1",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md",
+    "Work/Clients/Tiger Coatings/Sprint 3/Plan.md",
     "Work/Products/conPEP/AI.md",
     "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
     "Work/Clients/Tiger Coatings/Extra Info",
@@ -288,7 +292,6 @@
     "Work/Products/conPEP/Notes.md",
     "Work/Products/conOS/Notes.md",
     "Work/conPEP/Untitled",
-    "Work/Education/PP-VI/Finnance & Controlling (FICO).md",
     "attachments/Pasted image 20260213094437.png",
     "attachments/image 1 2.png",
     "attachments/image.png",
