@@ -2,10 +2,10 @@
   "dataview",
   "obsidian-latex-suite",
   "obsidian-excalidraw-plugin",
-  "pdf-plus",
   "quickadd",
   "obsidian-style-settings",
   "obsidian-git",
   "calendar",
-  "periodic-notes"
+  "periodic-notes",
+  "pdf-plus"
 ]
