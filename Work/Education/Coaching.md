@@ -235,4 +235,4 @@ firm unfirm (planned orders
 
 default values for production version
 
-quantitiy change, waht can it change ? put logic questions
+quantitiy change, what can it change ? put logic questions
