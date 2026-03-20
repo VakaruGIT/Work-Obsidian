@@ -224,12 +224,7 @@
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
-      "smart-connections:Smart Connections: Open connections view": false,
       "graph:Open graph view": false,
-      "smart-connections:Smart Lookup: Open lookup view": false,
-      "smart-connections:Smart Connections: Open random connection": false,
-      "obsidian-kanban:Create new board": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-git:Open Git source control": false,
       "periodic-notes:Open today": false
     }

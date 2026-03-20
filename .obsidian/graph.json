@@ -6,25 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "tag:#conOS  ",
-      "color": {
-        "a": 1,
-        "rgb": 609203
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.1,
-  "nodeSizeMultiplier": 1.37136284722222,
-  "lineSizeMultiplier": 3.20056857638889,
+  "textFadeMultiplier": -0.8,
+  "nodeSizeMultiplier": 1.26119791666667,
+  "lineSizeMultiplier": 0.583619791666667,
   "collapse-forces": false,
-  "centerStrength": 0.641059027777778,
-  "repelStrength": 8.59895833333333,
-  "linkStrength": 0.619270833333333,
-  "linkDistance": 180,
-  "scale": 0.356302773549575,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.3925682994555327,
   "close": false
 }
