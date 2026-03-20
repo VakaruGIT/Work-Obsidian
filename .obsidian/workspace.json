@@ -156,13 +156,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Calendar/20-03-2026.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20-03-2026"
+              "title": "Outline"
             }
           },
           {
@@ -235,10 +234,10 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ac38041bfad0df62",
+  "active": "c594c2a2665b88a1",
   "lastOpenFiles": [
-    "Work/Education/Tips.md",
     "Calendar/20-03-2026.md",
+    "Work/Education/Tips.md",
     "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",
     "Work/Products/conPEP/AI.md",
     "Calendar",
