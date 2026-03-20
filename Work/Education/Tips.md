@@ -23,6 +23,3 @@
         - Must be sure which data I actually needed
 
 
-How do I find another worker when one is absent and the other that i do not know his name has the same qualifications 
-If person is sick who to call in
-different methods
