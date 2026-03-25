@@ -34,15 +34,15 @@
         
     - Production Order / Process Order creation (part of the demo, bapi demonstration)
         
-    - Release / Preparation (release order immediatel)
+    - Release / Preparation (release order immediately after creation)
         
-    - Shop floor execution (messages from MES)
+    - Shop floor execution (messages from MES) -examples
         
     - Goods movements !!!!
         
     - Confirmation !!!!
         
-    - Goods receipt and order completion !!!!
+    - Goods receipt !!!!
         
 - **Why relevant**
     
@@ -66,7 +66,7 @@ You can structure this part by process step:
 
 #### Documents / Printing
 
-- Print control
+- Print control (not something we can do)
     
 - Output determination / forms
     
