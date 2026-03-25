@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/Education/Technical.md",
+                "file": "Work/Education/PP-VI/Deep Dive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Technical"
+              "title": "Deep Dive"
             }
           }
         ]
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,13 +232,14 @@
   },
   "active": "ac38041bfad0df62",
   "lastOpenFiles": [
+    "Work/Education/Technical.md",
+    "Work/Education/PP-VI/Deep Dive.md",
     "Calendar/20-03-2026.md",
     "Work/Education/Tips.md",
     "Work/Clients/Delfort/Sprint 1/Frontend bug development system.md",
     "Work/Products/conPEP/AI.md",
     "Calendar",
     "2026-03-20.md",
-    "Work/Education/Technical.md",
     "Work/Education/Coaching.md",
     "Work/Education/Scope Items/Scope Items.md",
     "Work/Education/Team Lead 1-1.md",
@@ -267,7 +269,6 @@
     "attachments/conPEP.png",
     "attachments/image 34.png",
     "attachments/image 5 8.png",
-    "Work/Education/Untitled Kanban 1.md",
     "Work/Products",
     "Work/conPEP/Untitled",
     "attachments/Pasted image 20260213094437.png",
