@@ -213,3 +213,6 @@ If you want a shorter agenda slide, use this:
 ## Recommended title for the session
 
 **SAP S/4HANA Production Execution: Prepare, Print, Goods Issue, Confirmation, and Goods Receipt**
+
+#TODO
+2 boms in routings (interesting)
