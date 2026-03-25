@@ -67,7 +67,7 @@ You can structure this part by process step:
 #### Documents / Printing
 
 - Print control (not something we can do)
-    
+	    Extra systems used 
 - Output determination / forms
     
 - Shop floor papers
@@ -88,7 +88,7 @@ You can structure this part by process step:
 - Work center / control key influence !!!! 
     
 
-#### Confirmation
+#### Confirmation (out of goods movement)
 
 - Confirmation parameters
     
