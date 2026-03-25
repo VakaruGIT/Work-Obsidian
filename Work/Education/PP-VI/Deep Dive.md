@@ -30,11 +30,11 @@
 
 - **Plan-to-Produce positioning**
     
-    - Planned Order / Demand
+    - Planned Order / Demand (not used for now)
         
     - Production Order / Process Order creation (part of the demo, bapi demonstration)
         
-    - Release / Preparation
+    - Release / Preparation (release order immediatel)
         
     - Shop floor execution (messages from MES)
         
@@ -83,9 +83,9 @@ You can structure this part by process step:
     
 - Storage location / supply area setup (a lil bit, possible errors)
     
-- BOM item settings !!!! (special interface, boms and routings)
+- BOM item settings !!!! (special interface, boms and routings) - using Configure > dummy routings and dummy bom 
     
-- Work center / control key influence
+- Work center / control key influence !!!! 
     
 
 #### Confirmation
