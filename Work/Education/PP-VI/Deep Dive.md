@@ -1,4 +1,4 @@
-Below is a clean, workshop-ready agenda you can use as-is.
+#deepdive
 
 ## SAP S/4HANA Agenda
 
