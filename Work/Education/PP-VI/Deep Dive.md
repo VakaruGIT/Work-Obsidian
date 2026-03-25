@@ -24,23 +24,25 @@
 
 ## Suggested content flow inside the session
 
+
+
 ### 1. Context
 
 - **Plan-to-Produce positioning**
     
     - Planned Order / Demand
         
-    - Production Order / Process Order creation
+    - Production Order / Process Order creation (part of the demo, bapi demonstration)
         
     - Release / Preparation
         
-    - Shop floor execution
+    - Shop floor execution (messages from MES)
         
-    - Goods movements
+    - Goods movements !!!!
         
-    - Confirmation
+    - Confirmation !!!!
         
-    - Goods receipt and order completion
+    - Goods receipt and order completion !!!!
         
 - **Why relevant**
     
@@ -75,13 +77,13 @@ You can structure this part by process step:
 
 #### Goods Issue Posting (incl. Backflush)
 
-- Movement types
+- Movement types (shown by Thomas)
     
 - Backflush indicators
     
-- Storage location / supply area setup
+- Storage location / supply area setup (a lil bit, possible errors)
     
-- BOM item settings
+- BOM item settings !!!! (special interface, boms and routings)
     
 - Work center / control key influence
     
