@@ -60,7 +60,7 @@
 - Checks for overlapping shifts, missing emails, zero utilization usages, invalid time windows.  
 - Export/print (PDF, Excel), and API/webhooks to feed MES/Time & Attendance.  
   
-Quick wins visible from your data:  
+Quick wins visible from data:  
 - Aggregate the repeated “min 1 Technician/Shift Lead” warnings into a single coverage dashboard with one‑click suggestions (e.g., propose Alphonso Davies for Technician on specific dates when he’s not absent; otherwise suggest cross‑trained Operators or pool members).  
 - Add qualification gating for WELDSET assignments to avoid non‑qualified placements.  
 - Show “best replacement” list ranked by skills, pool membership, current utilization, and compliance risk before you confirm an assignment
