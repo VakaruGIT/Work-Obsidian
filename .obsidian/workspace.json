@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Prompts"
             }
+          },
+          {
+            "id": "e6873772986d2ce2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-04-05 22.41.44.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-05 22.41.44.excalidraw"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -245,10 +257,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "ec82d4e143acc5fe",
+  "active": "e6873772986d2ce2",
   "lastOpenFiles": [
-    "Work/Products/conPEP/AI.md",
     "Work/Products/conPEP/Prompts.md",
+    "Excalidraw/Drawing 2026-04-05 22.41.44.excalidraw.md",
+    "Work/Products/conPEP/AI.md",
     "Work/Education/PP-VI/Deep Dive.md",
     "Work/Education/PP-VI/What to look for.md",
     "Work/Education/Technical.md",
@@ -276,7 +289,6 @@
     "Excalidraw/Untitled.base",
     "Excalidraw/Drawing 2026-03-04 09.55.09.excalidraw.md",
     "Work/Clients/Delfort/Sprint 1/PFW Fragen.md",
-    "Excalidraw/Drawing 2026-03-04 09.12.03.excalidraw.md",
     "Excalidraw",
     "attachments/image 5 6.png",
     "attachments/17f65a80b913aea00b9b2a6d771fe2ba.jpg",
