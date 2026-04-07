@@ -7,3 +7,4 @@ Advanced planning optimization (APO)
 Dummy BOM and Dummy Routing (placeholder)
 sales order needsd cost calculation (cost variant)
 mapped to a category of BOMS and routings
+i2c - i 2 the sky
