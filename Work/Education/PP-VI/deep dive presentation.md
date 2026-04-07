@@ -5,3 +5,5 @@ great number - 150 grammage thickness of paper
 easy use in sales
 Advanced planning optimization (APO)
 Dummy BOM and Dummy Routing (placeholder)
+sales order needsd cost calculation (cost variant)
+mapped to a category of BOMS and routings
