@@ -269,11 +269,13 @@
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
       "graph:Open graph view": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "15aaa3107b46e9fd",
+  "active": "32a42ac45594292c",
   "lastOpenFiles": [
+    "Untitled",
     "Work/Education/PP-VI/Deep Dive.md",
     "Work/Education/PP-VI/deep dive presentation.md",
     "Excalidraw/Drawing 2026-04-05 22.48.53.excalidraw.md",
@@ -300,7 +302,6 @@
     "Work/Clients/Tiger Coatings/Sprint 2/25.02.2026.md",
     "Work/Clients/Tiger Coatings/Key-User guide plan.md",
     "Excalidraw/Drawing 2026-03-06 09.49.18.excalidraw.md",
-    "Work/Clients/Tiger Coatings/Extra Info/ATP.md",
     "Work/Clients/Tiger Coatings/Extra Info",
     "Work/Clients/Tiger Coatings/Sprint 3",
     "Excalidraw/Untitled.base",
